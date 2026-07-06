@@ -4,7 +4,7 @@
 
 A bucket for all your links. Drag from any browser, find later, open anywhere.
 
-🌐 Website: [500links.online](https://500links.online)
+🌐 Website: [kalba.dev/apps/500](https://kalba.dev/apps/500/)
 
 ## Problem
 
